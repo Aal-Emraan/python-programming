@@ -1,0 +1,18 @@
+there are 4 types of values can be added to a variable.
+1. string ("hello", "1235") {string must have single qoutation or double)
+2. intiger (1, 23, 6) {integers don't need any qoutation marks)
+3. float (1.4, 2.5) (which mean a number with desimal)
+4. boolean (True, False) (first latter must be capitalized)
+
+# +, -, *, / is called operators.
+
+// means how much time a number can go into another one.
+exp: 17 // 5 = 3
+!= means not equals.
+
+Capitals matter in python. A capital latter and exact the same latter in lower case isn't same.
+exp: Hello, hello, HELLO are not same!
+
+four spaces in python is called indentation.
+
+for x in range(a, b, c) here a is start, b is stop, c is step.
